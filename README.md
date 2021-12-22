@@ -16,6 +16,7 @@ Bunun için “Başlat” menüsünden “Git Bash” kısayolunu bulup, çalı�
 Açılan pencerede aşağıda ki komutu uyguluyoruz.
 
 ![1_hGv_-plrBx-cx7ZKkOoSVg](https://user-images.githubusercontent.com/96534233/147117797-41e4de42-1121-4d0f-a233-9d663b0e59df.png)
+
 Resimde de görüldüğü üzere komutu uyguladıktan sonra Git sürümü hakkında bilgi veriyorsa, her şey yolunda demektir.
 
 Git Github’a nasıl yüklenir

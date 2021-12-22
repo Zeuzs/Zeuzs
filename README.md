@@ -1,4 +1,4 @@
-### Hi there 👋
+### Selamlar 👋
 
 
 Git nedir ve nasıl çalışır?
